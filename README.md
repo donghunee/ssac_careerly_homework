@@ -11,3 +11,4 @@
 7. 김수현 : [과제 제출](https://github.com/suhyunn/ssac_careerly_homework.git)
 8. 송우제 : [과제 제출](https://github.com/WoodysCloud/react_assignment)
 9. 오원주😊 : [과제 제출](https://github.com/PancakeCookie/SSAC_SNSProject)
+10. 이현주🐣 :[과제 제출](https://github.com/HYUN816/homework_careerly)
