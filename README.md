@@ -16,3 +16,4 @@
 11. 백승희ⓑ : [과제 제출](https://github.com/brilliantB/ssac_careerly.git)
 12. 윤세종🐳 : [과제 제출](https://github.com/YONo92/ssac_careerly_sj.git)
 13. 임도훈😆: [과제 제출](https://github.com/Dohun-Im/careerly_css.git)
+14. 주영웅🍕 : [과제 제출](https://github.com/0woong/ssac_careerly.git)
